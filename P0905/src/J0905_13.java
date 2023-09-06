@@ -1,9 +1,10 @@
+import java.lang.reflect.Array;
 
 public class J0905_13 {
 	public static void main(String[] args) {
 		int[] score = {100,90,80,70,60,50,40,30,20,10};
 		
-		
+
 		//for문 출력
 		for(int i =0; i<score.length; i++) {
 			System.out.println(score[i]);
