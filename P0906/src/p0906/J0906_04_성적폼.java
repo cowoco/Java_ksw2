@@ -14,7 +14,7 @@ public class J0906_04_성적폼 {
 		int[] total = new int[10];
 		double[] avg = new double[10];
 		int count = 0; // 입력된 학생 수
-		
+		//시험 봄
 		
 		
 		
